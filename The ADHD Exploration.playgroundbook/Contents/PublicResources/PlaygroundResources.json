@@ -1,0 +1,214 @@
+{
+    "questions" : [
+        {
+            "prompt": "I fancy",
+            "options": [
+                "Sticking to my go-to methods.",
+                "Finding new ways of doing things."
+            ],
+            "indexOfAnswerWithPoint": 1,
+            "questionTrait": "openness"
+        },
+
+        {
+            "prompt": "I would prefer to",
+            "options": [
+                "Have small talk.",
+                "Discuss theoretical ideas."
+            ],
+            "indexOfAnswerWithPoint": 1,
+            "questionTrait": "openness"
+        },
+
+        {
+            "prompt": "I often focus on",
+            "options": [
+                "The deeper meaning of things.",
+                "What is seen clearly above the surface."
+            ],
+            "indexOfAnswerWithPoint": 0,
+            "questionTrait": "openness"
+        },
+
+        {
+            "prompt": "When I’ve got tedious chores to do,",
+            "options": [
+                "I itch for getting them done right away.",
+                "I would rather put them off."
+            ],
+            "indexOfAnswerWithPoint": 0,
+            "questionTrait": "conscientiousness"
+        },
+
+        {
+            "prompt": "When I have important work to do, I",
+            "options": [
+                "Spend time planning and preparing upfront.",
+                "Just go for it and think about the challenges as I face them."
+            ],
+            "indexOfAnswerWithPoint": 0,
+            "questionTrait": "conscientiousness"
+        },
+
+        {
+            "prompt": "Setting and sticking to a schedule is",
+            "options": [
+                "Helpful.",
+                "Restricting."
+            ],
+            "indexOfAnswerWithPoint": 0,
+            "questionTrait": "conscientiousness"
+        },
+
+        {
+            "prompt": "I’m often the one who",
+            "options": [
+                "Joins the conversation.",
+                "Starts the conversation."
+            ],
+            "indexOfAnswerWithPoint": 1,
+            "questionTrait": "extraversion"
+        },
+
+        {
+            "prompt": "Large social gatherings are mostly",
+            "options": [
+                "Energizing for me.",
+                "Draining for me."
+            ],
+            "indexOfAnswerWithPoint": 0,
+            "questionTrait": "extraversion"
+        },
+
+        {
+            "prompt": "I make new friends",
+            "options": [
+                "Quite often.",
+                "Occasionally."
+            ],
+            "indexOfAnswerWithPoint": 0,
+            "questionTrait": "extraversion"
+        },
+
+        {
+            "prompt": "While trying to comfort someone, I first focus on",
+            "options": [
+                "The logical facts.",
+                "Their emotional needs."
+            ],
+            "indexOfAnswerWithPoint": 1,
+            "questionTrait": "agreeableness"
+        },
+
+        {
+            "prompt": "While making an influential decision, what matters more is",
+            "options": [
+                "Its benefits.",
+                "If everyone is happy."
+            ],
+            "indexOfAnswerWithPoint": 1,
+            "questionTrait": "agreeableness"
+        },
+
+        {
+            "prompt": "The feelings of people around me influence my mood",
+            "options": [
+                "Not so much.",
+                "Quite significantly."
+            ],
+            "indexOfAnswerWithPoint": 1,
+            "questionTrait": "agreeableness"
+        },
+
+        {
+            "prompt": "Recovering emotionally after a traumatic event",
+            "options": [
+                "Takes quite a lot of time and effort.",
+                "Is not a piece of cake, but okay."
+            ],
+            "indexOfAnswerWithPoint": 0,
+            "questionTrait": "neuroticism"
+        },
+
+        {
+            "prompt": "I experience mood swings,",
+            "options": [
+                "Not so much.",
+                "Pretty often."
+            ],
+            "indexOfAnswerWithPoint": 1,
+            "questionTrait": "neuroticism"
+        },
+
+        {
+            "prompt": "I’m someone who",
+            "options": [
+                "Is often calm.",
+                "Can get stressed easily."
+            ],
+            "indexOfAnswerWithPoint": 1,
+            "questionTrait": "neuroticism"
+        }
+    ],
+
+    "adhdAdvice" : {
+        "adviceStrings":[
+
+            "openness", [
+                "below50",
+                "Your score on openness is among the lower end of the spectrum. Chances are, you put great value in tradition and prefer to do things in the usual way. Most ADHDers score high on this trait; however, researchers haven’t observed a direct correlation between openness and ADHD symptoms.",
+    
+                "above50",
+                "Your score on openness is among the higher end of the spectrum. You most probably love exploring new ideas and theories, as well as art and abstract thought. Most ADHDers score high on this trait; however, researchers haven’t observed a direct correlation between openness and ADHD symptoms."
+            ],
+
+            "conscientiousness", [
+                "below50",
+                "Your score on conscientiousness is among the lower end of the spectrum, and you may struggle with inattention more than otherwise. Sometimes, set schedules and routines can feel a bit boring, but they play a vital role in helping you stay focused and get work done. Set yourself a daily schedule, but don’t go too hard on yourself; otherwise, you might get unmotivated.",
+
+                "above50",
+                "Your score on conscientiousness is among the higher end of the spectrum. Good news! You are probably better at planning and managing things than the other end; though you may struggle more with hyperactivity. Putting your energy into sports and something you love can help with that. Also, make sure you are not over-planning and getting burnt out :)"
+            ],
+
+            "extraversion", [
+                "below50",
+                "Your score on extraversion is among the lower end of the spectrum, meaning that you're an introvert! Chances are you highly enjoy quality alone time. As an introvert, you probably struggle with hyperactivity less than otherwise; but may come across as shy from time to time. You can focus on building intimate friendships!",
+
+                "above50",
+                "Your score on extraversion is among the higher end of the spectrum, meaning that you are an extravert! You most probably love spending time with a lot of friends and in large social settings. You are more likely to have trouble with hyperactive behavior than the opposite end; putting your energy into exercise and something you love doing can help with that!"
+            ],
+
+            "agreeableness", [
+                "below50",
+                "Your score on agreeableness is among the lower end of the spectrum. Chances are, you may sometimes have trouble with resisting impulse. Before making any sudden decisions and taking action, make sure you take a step back and think about it thoroughly :)",
+
+                "above50",
+                "Your score on agreeableness is among the higher end of the spectrum, which is good news! You are likely better at resisting impulse than the other end; however, you may be a little prone to overthinking. When you know you are overthinking, make sure to give yourself a break and relax."
+            ],
+
+            "neuroticism", [
+                "below50",
+                "Your score on neuroticism is among the lower end of the spectrum, meaning that you most probably struggle less with emotional instability and unexpected mood changes more than otherwise. Being emotionally more resilient, you probably recover faster from traumatic events.",
+
+                "above50",
+                "Your score on neuroticism is among the higher end of the spectrum. You probably struggle to stay focused more than the other end because you sometimes get lost in your feelings. We all do, don’t we? The next time you suddenly feel down, please remember that everything is going to be okay; having a consistent routine will also help you stay on track."
+            ]
+            
+        ]
+    },
+    
+    "memojiContributors": [
+        "Ayşe Silsüpür",
+        "Bedir Ekim",
+        "Beyza İşkür",
+        "Daniel Alp Karamanoğlu"
+    ],
+
+    "citations": [
+        "Grice, J. W. (2019, January 4). Five-factor model of personality. Encyclopedia Britannica. https://www.britannica.com/science/five-factor-model-of-personality",
+        "Cherry, K., & Susman, D., PhD. (2021, February 20). What Are the Big 5 Personality Traits? Verywell Mind. https://www.verywellmind.com/the-big-five-personality-dimensions-2795422",
+        "Centers for Disease Control and Prevention. (2021, January 26). What is ADHD? https://www.cdc.gov/ncbddd/adhd/facts.html",
+        "Lange, K. W., Reichl, S., Lange, K. M., Tucha, L., & Tucha, O. (2010). The history of attention deficit hyperactivity disorder. Attention deficit and hyperactivity disorders, 2(4), 241–255. https://doi.org/10.1007/s12402-010-0045-8",
+        "Knouse, L. E., Traeger, L., O'Cleirigh, C., & Safren, S. A. (2013). Adult attention deficit hyperactivity disorder symptoms and five-factor model traits in a clinical sample: a structural equation modeling approach. The Journal of nervous and mental disease, 201(10), 848–854. https://doi.org/10.1097/NMD.0b013e3182a5bf33"
+    ]
+}

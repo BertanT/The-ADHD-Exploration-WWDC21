@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Chapters</key>
+	<array>
+		<string>Chapter1.playgroundchapter</string>
+	</array>
+	<key>ContentIdentifier</key>
+	<string>com.yourdomain.6DC660DE</string>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>DeploymentTarget</key>
+	<string>ios-current</string>
+	<key>DevelopmentRegion</key>
+	<string>en</string>
+	<key>HasMeaningfulResetPoint</key>
+	<true/>
+	<key>ImageReference</key>
+	<string>cover.png</string>
+	<key>Subtitle</key>
+	<string>Get the best advice on managing your ADHD, depending on your personality.</string>
+	<key>SwiftVersion</key>
+	<string>5.3</string>
+	<key>UserAutoImportedAuxiliaryModules</key>
+	<array/>
+	<key>UserModuleMode</key>
+	<string>Full</string>
+	<key>Version</key>
+	<string>8.0</string>
+</dict>
+</plist>
