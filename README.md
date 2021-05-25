@@ -58,7 +58,7 @@ The playground here has minor differences from the one I sent to Apple. They don
 ### Customizing Memoji
 Want to add your Memoji to the title screen? Go ahead and follow these steps!
 * Send yourself your Memoji sticker using iMessage or your preferred messaging service. Then drag and drop it onto Finder.
-* This step it optional. If you have ([Pixelmator Pro](https://www.pixelmator.com/pro/) on your Mac, I highly recommend using the *ML Super Resolution* tool to upscale your Memoji. I used the tool on every Memoji in this playground.
+* This step it optional. If you have [Pixelmator Pro](https://www.pixelmator.com/pro/) on your Mac, I highly recommend using the *ML Super Resolution* tool to upscale your Memoji. I used the tool on every Memoji in this playground.
 * Rename the file like `memojiR_yourCustomFilenameHere`. **The name must start with `memojiR_`; otherwise, the playground will not detect it.**
 * In the Playgrounds app with The ADHD Exploration open, click on the plus symbol in the upper right-hand corner of your screen. On the pop-up view, click on the painting symbol at the top.
 * Click on the *Insert From…* button. Navigate to the folder your Memoji image file is in, select it, and click open.
