@@ -1,6 +1,6 @@
 # The ADHD Exploration - WWDC21 Swift Student Challenge Submission
 ## 👀 Overview
-###  Submission Status: Waiting for Result!
+###  Submission Status: Accepted!
 
 Welcome, and thank you for your interest in The ADHD Exploration! This is my submission for the Apple WWDC21 Swift Student Challenge. Inspired by an ADHDer friend of mine, this playground aims to give the best [ADHD](https://www.cdc.gov/ncbddd/adhd/facts.html) advice based on your personality. After taking a personality test based on the [five-factor personality traits](https://www.verywellmind.com/the-big-five-personality-dimensions-2795422), you get one piece of advice correlated with each trait.
 ### Why build this playground?
