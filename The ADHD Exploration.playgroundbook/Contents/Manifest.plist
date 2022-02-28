@@ -7,21 +7,27 @@
 		<string>Chapter1.playgroundchapter</string>
 	</array>
 	<key>ContentIdentifier</key>
-	<string>com.yourdomain.6DC660DE</string>
+	<string>com.bertan.playgroundcollection.theADHDExplorationWWDC21Mac</string>
 	<key>ContentVersion</key>
 	<string>1.0</string>
 	<key>DeploymentTarget</key>
-	<string>ios-current</string>
+	<string>ios14.0</string>
 	<key>DevelopmentRegion</key>
 	<string>en</string>
+	<key>MinimumSwiftPlaygroundsVersion</key>
+	<string>3.2</string>
+	<key>SupportsDarkMode</key>
+	<true/>
 	<key>HasMeaningfulResetPoint</key>
 	<true/>
 	<key>ImageReference</key>
 	<string>cover.png</string>
+	<key>Name</key>
+	<string>The ADHD Exploration - WWDC21</string>
 	<key>Subtitle</key>
 	<string>Get the best advice on managing your ADHD, depending on your personality.</string>
 	<key>SwiftVersion</key>
-	<string>5.3</string>
+	<string>5.5</string>
 	<key>UserAutoImportedAuxiliaryModules</key>
 	<array/>
 	<key>UserModuleMode</key>
