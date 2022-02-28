@@ -15,7 +15,7 @@
 	<key>DevelopmentRegion</key>
 	<string>en</string>
 	<key>MinimumSwiftPlaygroundsVersion</key>
-	<string>3.2</string>
+	<string>3.4</string>
 	<key>SupportsDarkMode</key>
 	<true/>
 	<key>HasMeaningfulResetPoint</key>
